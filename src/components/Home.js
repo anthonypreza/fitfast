@@ -14,10 +14,6 @@ class Home extends React.Component {
 		};
 	}
 
-	componentWillMount() {
-		M.AutoInit();
-	}
-
 	componentDidMount() {
 		M.AutoInit();
 	}
