@@ -1,14 +1,14 @@
 {
-  "name": "exercise-app",
+  "name": "fitfast",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "firebase": "^5.10.0",
+    "firebase": "^7.4.0-0",
     "materialize-css": "^1.0.0-rc.2",
     "re-base": "^4.0.0",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-router-dom": "^5.0.0",
+    "react": "^0.0.0-b53ea6ca0",
+    "react-dom": "^0.0.0-b53ea6ca0",
+    "react-router-dom": "^5.1.2",
     "react-scripts": "3.0.0",
     "yarn": "^1.17.3"
   },
